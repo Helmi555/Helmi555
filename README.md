@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Freelance Developer: Passionate about development, problem-solving, and tackling riddles.<br>🌱 Current Focus: Backend/Mobile development ReactNative Node.js/Express, Competitive programming with C++, JS, Python.<br>💞️ Collaboration: Open to collaborating on projects, debugging, and problem-solving.<br>🌟 Lifelong Learner: Curious and always eager to expand my horizons. “The journey of a thousand miles begins with one step.”
+🔭 Freelance Developer: Passionate about development, problem-solving, and tackling riddles.<br>🌱 Current Focus: Backend/Mobile development ReactNative Node.js/Express Spring Boot, Competitive programming with C++, JS, Python.<br>💞️ Collaboration: Open to collaborating on projects, debugging, and problem-solving.<br>🌟 Lifelong Learner: Curious and always eager to expand my horizons. “The journey of a thousand miles begins with one step.”
 
 
 ## 🏆 GitHub Trophies
